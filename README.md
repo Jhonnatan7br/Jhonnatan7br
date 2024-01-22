@@ -1,4 +1,5 @@
-![image](https://github.com/Jhonnatan7br/Jhonnatan7br/assets/104907786/e60e0b0c-60d8-4786-a8cf-80e628a6c3f4)
+![image](https://github.com/Jhonnatan7br/Jhonnatan7br/assets/104907786/b8275acf-5e48-44f0-8adb-c55807396973)
+
 
 ### AI & Machine Learning Development, Data Science & Data Engineering 
 

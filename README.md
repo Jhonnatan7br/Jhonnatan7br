@@ -1,3 +1,5 @@
+![image](https://github.com/Jhonnatan7br/Jhonnatan7br/assets/104907786/e60e0b0c-60d8-4786-a8cf-80e628a6c3f4)
+
 ### AI & Machine Learning Development, Data Science & Data Engineering 
 
 Let's collaborate and embark on a transformative journey, where we'll leverage data insights, automate processes, and co-create valuable solutions that will revolutionize your business. Get ready to harness the power of data-driven strategies and propel your organization to new heights. 🙌🏼⚙️

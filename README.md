@@ -4,6 +4,10 @@
 ### Projects 
 
 Let's collaborate and embark on a transformative journey, where we'll leverage data insights, automate processes, and co-create valuable solutions that will revolutionize your business. Get ready to harness the power of data-driven strategies and propel your organization to new heights. 🙌🏼⚙️
+
+>[!IMPORTANT]
+>All the repositories, projects, and tools are oriented to generate business measurable value, using innovative technologies, software engineering and computer software and solving problems, most of projects are open source to being forked/cloned and used for everybody in their context 😄 
+
 <!--
 **Jhonnatan7br/Jhonnatan7br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
